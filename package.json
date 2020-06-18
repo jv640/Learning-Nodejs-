@@ -1,0 +1,25 @@
+{
+  "name": "learning-nodejs-",
+  "version": "1.0.0",
+  "description": "node crash course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jv640/Learning-Nodejs-.git"
+  },
+  "author": "Jatin Verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jv640/Learning-Nodejs-/issues"
+  },
+  "homepage": "https://github.com/jv640/Learning-Nodejs-#readme",
+  "dependencies": {
+    "uuid": "^8.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
